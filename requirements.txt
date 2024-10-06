@@ -1,0 +1,11 @@
+flask
+requests
+pandas
+numpy
+gdal
+rasterio
+geopandas
+shapely
+transformers
+celery
+sqlalchemy
