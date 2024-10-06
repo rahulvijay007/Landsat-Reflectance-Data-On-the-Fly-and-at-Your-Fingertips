@@ -1,11 +1,7 @@
 flask
 requests
-pandas
-numpy
-gdal
-rasterio
 geopandas
-shapely
-transformers
-celery
-sqlalchemy
+skyfield
+apscheduler
+sendgrid  # If you choose to use email notifications
+firebase-admin  # If using Firebase for push notifications
